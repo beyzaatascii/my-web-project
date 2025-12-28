@@ -1,6 +1,6 @@
 # 🛍️ Eve Shop Clone - Nuxt 3 & Firebase Project
 
-<p align="center"> <img src="https://raw.githubusercontent.com/nuxt/modules/main/icons/firebase.svg" width="80" alt="Firebase Logo" /> <img src="https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg" width="80" alt="Nuxt Logo" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg" width="80" alt="Nuxt Logo" /> </p>
 
 <p align="center">
   <strong>Modern Web Teknolojileri ile Geliştirilmiş Full-Stack E-Ticaret Deneyimi</strong>
